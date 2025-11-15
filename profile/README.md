@@ -86,7 +86,6 @@
 
 ## 📧 연락처
 
-- 충북대학교 소프트웨어학과
 - GitHub: [@CBNU-SW-1-11](https://github.com/CBNU-SW-1-11)
 
 ---
